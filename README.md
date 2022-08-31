@@ -4,7 +4,7 @@ This is a project for learning and practicing mondern HTML and CSS. The website 
 
 ## Website link
 
-https://omnifood-jasonz.netlify.app/
+https://omnifood-gcgogo22.netlify.app/
 
 ## About Omnifood
 
